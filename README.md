@@ -1,4 +1,4 @@
-# news_c9_friday
+# newsAPP
 
 A new Flutter project.
 
